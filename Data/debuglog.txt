@@ -1757,3 +1757,450 @@ Final action chosen:                                        |[Prefer Rollout]
 Nidoking used Earth Power
 [The foe's Togedemaru lost 59 HP, now has 0 HP]
 [The foe's Togedemaru fainted]
+************************** Round 1 *******************************
+Priority Check Begin
+Player Pokemon is faster.
+pre-check: 5
+Expected damage taken: 82
+post-check: 155
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (140)
+Initial switchscore building: Typing (20)
+Initial switchscore building: Specific Switches (100)
+Pachirisu: initial switchscore: 260
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (100)
+Initial noswitchscore building: Second Wind Situations (50)
+Pachirisu: initial noswitchscore: 150
+ShouldSwitchScore: 110 
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 2.983051
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+[The foe's Pachirisu: Charm=[20, -1, -1, -1], Spark=[0, -1, -1, -1], Endure=[201, -1, -1, -1], Nuzzle=[0, -1, -1, -1]]
+[Prefer Endure]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 100.0 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |143.9 % 
+
+Scoring for Switching to other mon                          |110 
+ 
+Charm - 0 vs Nidoking, Init scoring move:                   |10 
+Charm - 0 vs Nidoking, Final scoring move:                  |20 
+
+Endure - 0 vs Nidoking, Init scoring move:                  |5 
+Endure - 0 vs Nidoking, Final scoring move:                 |201 
+
+Nuzzle - 0 vs Nidoking, Init scoring move:                  |0 
+Nuzzle - 0 vs Nidoking, Final scoring move:                 |0 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Endure]    
+ ______________________________________________________________________________ 
+
+Pachirisu used Endure
+Nidoking used Earth Power
+[The foe's Pachirisu lost 56 HP, now has 1 HP]
+************************** Round 2 *******************************
+Priority Check Begin
+Player Pokemon is faster.
+pre-check: 5
+Expected damage taken: 88
+post-check: 155
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (140)
+Initial switchscore building: Typing (20)
+Initial switchscore building: Specific Switches (0)
+Pachirisu: initial switchscore: 160
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (0)
+Initial noswitchscore building: Second Wind Situations (25)
+Pachirisu: initial noswitchscore: 25
+ShouldSwitchScore: 135 
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 3.457627
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+[The foe's Pachirisu: Charm=[20, -1, -1, -1], Spark=[0, -1, -1, -1], Endure=[0, -1, -1, -1], Nuzzle=[0, -1, -1, -1]]
+[Prefer Charm]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 1.8 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |154.4 % 
+
+Scoring for Switching to other mon                          |135 
+ 
+Charm - 0 vs Nidoking, Init scoring move:                   |10 
+Charm - 0 vs Nidoking, Final scoring move:                  |20 
+
+Endure - 0 vs Nidoking, Init scoring move:                  |5 
+Endure - 0 vs Nidoking, Final scoring move:                 |0 
+
+Nuzzle - 0 vs Nidoking, Init scoring move:                  |0 
+Nuzzle - 0 vs Nidoking, Final scoring move:                 |0 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Charm]     
+ ______________________________________________________________________________ 
+
+Nidoking used Earth Power
+[The foe's Pachirisu lost 1 HP, now has 0 HP]
+[The foe's Pachirisu fainted]
+[AI made a switch]
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 3.457627
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+Scoring for switching from: Pachirisu
+                                                            |New AI
+Score for switching to Pachirisu                            |-10000000 
+Score for switching to Togedemaru                           |-150.0 
+Switch chosen =                                             |Togedemaru 
+
+ ______________________________________________________________________________ 
+
+************************** Round 3 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[0, -1, -1, -1], Rollout=[14, -1, -1, -1], Charge=[0, -1, -1, -1], Spark=[0, -1, -1, -1]]
+[Prefer Rollout]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 100.0 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |345.8 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Nidoking, Init scoring move:                  |10 
+Charge - 0 vs Nidoking, Final scoring move:                 |0 
+
+Defense Curl - 0 vs Nidoking, Init scoring move:            |10 
+Defense Curl - 0 vs Nidoking, Final scoring move:           |0 
+
+Rollout - 0 vs Nidoking, Init scoring move:                 |3 
+Rollout - 0 vs Nidoking, Final scoring move:                |14 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Nidoking used Earth Power
+[The foe's Togedemaru lost 59 HP, now has 0 HP]
+[The foe's Togedemaru fainted]
+************************** Round 1 *******************************
+Priority Check Begin
+Player Pokemon is faster.
+pre-check: 5
+Expected damage taken: 52
+post-check: 5
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (140)
+Initial switchscore building: Typing (20)
+Initial switchscore building: Specific Switches (0)
+Pachirisu: initial switchscore: 160
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (100)
+Initial noswitchscore building: Second Wind Situations (50)
+Pachirisu: initial noswitchscore: 150
+ShouldSwitchScore: 10 
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 2.983051
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+[The foe's Pachirisu: Charm=[20, -1, -1, -1], Spark=[0, -1, -1, -1], Endure=[0, -1, -1, -1], Nuzzle=[0, -1, -1, -1]]
+[Prefer Charm]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 100.0 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |91.2 % 
+
+Scoring for Switching to other mon                          |10 
+ 
+Charm - 0 vs Nidoking, Init scoring move:                   |10 
+Charm - 0 vs Nidoking, Final scoring move:                  |20 
+
+Endure - 0 vs Nidoking, Init scoring move:                  |5 
+Endure - 0 vs Nidoking, Final scoring move:                 |0 
+
+Nuzzle - 0 vs Nidoking, Init scoring move:                  |0 
+Nuzzle - 0 vs Nidoking, Final scoring move:                 |0 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Charm]     
+ ______________________________________________________________________________ 
+
+Nidoking used Megahorn
+[The foe's Pachirisu lost 31 HP, now has 26 HP]
+Pachirisu used Charm
+************************** Round 2 *******************************
+Priority Check Begin
+Player Pokemon is faster.
+pre-check: 5
+Expected damage taken: 28
+post-check: 155
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (140)
+Initial switchscore building: Typing (20)
+Initial switchscore building: Specific Switches (0)
+Pachirisu: initial switchscore: 160
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (0)
+Initial noswitchscore building: Second Wind Situations (25)
+Pachirisu: initial noswitchscore: 25
+ShouldSwitchScore: 135 
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 1.559322
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+[The foe's Pachirisu: Charm=[20, -1, -1, -1], Spark=[0, -1, -1, -1], Endure=[201, -1, -1, -1], Nuzzle=[0, -1, -1, -1]]
+[Prefer Endure]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 45.6 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |49.1 % 
+
+Scoring for Switching to other mon                          |135 
+ 
+Charm - 0 vs Nidoking, Init scoring move:                   |10 
+Charm - 0 vs Nidoking, Final scoring move:                  |20 
+
+Endure - 0 vs Nidoking, Init scoring move:                  |5 
+Endure - 0 vs Nidoking, Final scoring move:                 |201 
+
+Nuzzle - 0 vs Nidoking, Init scoring move:                  |0 
+Nuzzle - 0 vs Nidoking, Final scoring move:                 |0 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Endure]    
+ ______________________________________________________________________________ 
+
+Pachirisu used Endure
+Nidoking used Earth Power
+[The foe's Pachirisu lost 25 HP, now has 1 HP]
+************************** Round 3 *******************************
+Priority Check Begin
+Player Pokemon is faster.
+pre-check: 5
+Expected damage taken: 54
+post-check: 155
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (140)
+Initial switchscore building: Typing (20)
+Initial switchscore building: Specific Switches (0)
+Pachirisu: initial switchscore: 160
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (0)
+Initial noswitchscore building: Second Wind Situations (0)
+Pachirisu: initial noswitchscore: 0
+ShouldSwitchScore: 160 
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 3.457627
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+[The foe's Pachirisu: Charm=[0, -1, -1, -1], Spark=[0, -1, -1, -1], Endure=[0, -1, -1, -1], Nuzzle=[0, -1, -1, -1]]
+[Prefer Endure]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 1.8 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |94.7 % 
+
+Scoring for Switching to other mon                          |160 
+ 
+Charm - 0 vs Nidoking, Init scoring move:                   |10 
+Charm - 0 vs Nidoking, Final scoring move:                  |0 
+
+Endure - 0 vs Nidoking, Init scoring move:                  |5 
+Endure - 0 vs Nidoking, Final scoring move:                 |0 
+
+Nuzzle - 0 vs Nidoking, Init scoring move:                  |0 
+Nuzzle - 0 vs Nidoking, Final scoring move:                 |0 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Endure]    
+ ______________________________________________________________________________ 
+
+Pachirisu used Endure
+Nidoking used Earth Power
+[The foe's Pachirisu lost 1 HP, now has 0 HP]
+[The foe's Pachirisu fainted]
+[AI made a switch]
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 3.457627
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+Scoring for switching from: Pachirisu
+                                                            |New AI
+Score for switching to Pachirisu                            |-10000000 
+Score for switching to Togedemaru                           |-150.0 
+Switch chosen =                                             |Togedemaru 
+
+ ______________________________________________________________________________ 
+
+************************** Round 4 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[0, -1, -1, -1], Rollout=[14, -1, -1, -1], Charge=[0, -1, -1, -1], Spark=[0, -1, -1, -1]]
+[Prefer Rollout]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 100.0 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |345.8 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Nidoking, Init scoring move:                  |10 
+Charge - 0 vs Nidoking, Final scoring move:                 |0 
+
+Defense Curl - 0 vs Nidoking, Init scoring move:            |10 
+Defense Curl - 0 vs Nidoking, Final scoring move:           |0 
+
+Rollout - 0 vs Nidoking, Init scoring move:                 |3 
+Rollout - 0 vs Nidoking, Final scoring move:                |14 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Nidoking used Earth Power
+[The foe's Togedemaru lost 59 HP, now has 0 HP]
+[The foe's Togedemaru fainted]

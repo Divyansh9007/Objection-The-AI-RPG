@@ -26,6 +26,14 @@ def mainFunction #:nodoc:
   return 1
 end
 
+# In some global script file
+def log_variable(var_id)
+  File.open("variable_log.txt", "w") do |file|
+    file.puts($game_variables[var_id])
+  end
+end
+
+
 def mainFunctionDebug #:nodoc:
   begin
     startup
