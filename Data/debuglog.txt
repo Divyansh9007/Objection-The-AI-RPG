@@ -2204,3 +2204,687 @@ Final action chosen:                                        |[Prefer Rollout]
 Nidoking used Earth Power
 [The foe's Togedemaru lost 59 HP, now has 0 HP]
 [The foe's Togedemaru fainted]
+************************** Round 1 *******************************
+Priority Check Begin
+Player Pokemon is faster.
+pre-check: 5
+Expected damage taken: 82
+post-check: 155
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (140)
+Initial switchscore building: Typing (20)
+Initial switchscore building: Specific Switches (100)
+Pachirisu: initial switchscore: 260
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (100)
+Initial noswitchscore building: Second Wind Situations (50)
+Pachirisu: initial noswitchscore: 150
+ShouldSwitchScore: 110 
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 2.983051
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+[The foe's Pachirisu: Charm=[20, -1, -1, -1], Spark=[0, -1, -1, -1], Endure=[201, -1, -1, -1], Nuzzle=[0, -1, -1, -1]]
+[Prefer Endure]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 100.0 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |143.9 % 
+
+Scoring for Switching to other mon                          |110 
+ 
+Charm - 0 vs Nidoking, Init scoring move:                   |10 
+Charm - 0 vs Nidoking, Final scoring move:                  |20 
+
+Endure - 0 vs Nidoking, Init scoring move:                  |5 
+Endure - 0 vs Nidoking, Final scoring move:                 |201 
+
+Nuzzle - 0 vs Nidoking, Init scoring move:                  |0 
+Nuzzle - 0 vs Nidoking, Final scoring move:                 |0 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Endure]    
+ ______________________________________________________________________________ 
+
+Pachirisu used Endure
+Nidoking used Earth Power
+[The foe's Pachirisu lost 56 HP, now has 1 HP]
+************************** Round 2 *******************************
+Priority Check Begin
+Player Pokemon is faster.
+pre-check: 5
+Expected damage taken: 88
+post-check: 155
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (140)
+Initial switchscore building: Typing (20)
+Initial switchscore building: Specific Switches (0)
+Pachirisu: initial switchscore: 160
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (0)
+Initial noswitchscore building: Second Wind Situations (25)
+Pachirisu: initial noswitchscore: 25
+ShouldSwitchScore: 135 
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 3.457627
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+[The foe's Pachirisu: Charm=[20, -1, -1, -1], Spark=[0, -1, -1, -1], Endure=[0, -1, -1, -1], Nuzzle=[0, -1, -1, -1]]
+[Prefer Charm]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 1.8 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |154.4 % 
+
+Scoring for Switching to other mon                          |135 
+ 
+Charm - 0 vs Nidoking, Init scoring move:                   |10 
+Charm - 0 vs Nidoking, Final scoring move:                  |20 
+
+Endure - 0 vs Nidoking, Init scoring move:                  |5 
+Endure - 0 vs Nidoking, Final scoring move:                 |0 
+
+Nuzzle - 0 vs Nidoking, Init scoring move:                  |0 
+Nuzzle - 0 vs Nidoking, Final scoring move:                 |0 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Charm]     
+ ______________________________________________________________________________ 
+
+Nidoking used Earth Power
+[The foe's Pachirisu lost 1 HP, now has 0 HP]
+[The foe's Pachirisu fainted]
+[AI made a switch]
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 3.457627
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -150 
+
+Scoring for switching from: Pachirisu
+                                                            |New AI
+Score for switching to Pachirisu                            |-10000000 
+Score for switching to Togedemaru                           |-150.0 
+Switch chosen =                                             |Togedemaru 
+
+ ______________________________________________________________________________ 
+
+************************** Round 3 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[0, -1, -1, -1], Rollout=[14, -1, -1, -1], Charge=[0, -1, -1, -1], Spark=[0, -1, -1, -1]]
+[Prefer Rollout]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 100.0 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |345.8 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Nidoking, Init scoring move:                  |10 
+Charge - 0 vs Nidoking, Final scoring move:                 |0 
+
+Defense Curl - 0 vs Nidoking, Init scoring move:            |10 
+Defense Curl - 0 vs Nidoking, Final scoring move:           |0 
+
+Rollout - 0 vs Nidoking, Init scoring move:                 |3 
+Rollout - 0 vs Nidoking, Final scoring move:                |14 
+
+Spark - 0 vs Nidoking, Init scoring move:                   |0 
+Spark - 0 vs Nidoking, Final scoring move:                  |0 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Nidoking used Earth Power
+[The foe's Togedemaru lost 59 HP, now has 0 HP]
+[The foe's Togedemaru fainted]
+************************** Round 1 *******************************
+************************** Round 1 *******************************
+Beginning AI Item use check.
+
+This is a HP-healing item.
+This is a status-curing item.
+Score for Full Restore: -100
+Highest item score: -100
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Calm Mind=[1, -1, -1, -1], Psyshock=[25, -1, -1, -1], Dazzling Gleam=[6, -1, -1, -1], Hyper Voice=[13, -1, -1, -1]]
+[Prefer Psyshock]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 100.0 %
+Held Item:  , Ability: Magic Bounce , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |247.6 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Scoring for items                                           |                    | 
+Full Restore                                                |-100.0              
+Calm Mind - 0 vs Nidoking, Init scoring move:               |10 
+Calm Mind - 0 vs Nidoking, Final scoring move:              |1 
+
+Dazzling Gleam - 0 vs Nidoking, Init scoring move:          |6 
+Dazzling Gleam - 0 vs Nidoking, Final scoring move:         |6 
+
+Hyper Voice - 0 vs Nidoking, Init scoring move:             |13 
+Hyper Voice - 0 vs Nidoking, Final scoring move:            |13 
+
+Psyshock - 0 vs Nidoking, Init scoring move:                |25 
+Psyshock - 0 vs Nidoking, Final scoring move:               |25 
+
+Final action chosen:                                        |[Prefer Psyshock]  
+ ______________________________________________________________________________ 
+
+Nidoking used Earth Power
+[The foe's Togedemaru lost 63 HP, now has 0 HP]
+[The foe's Togedemaru fainted]
+************************** Round 1 *******************************
+Beginning AI Item use check.
+
+This is a HP-healing item.
+This is a status-curing item.
+Score for Full Restore: -100
+Highest item score: -100
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (0)
+Initial switchscore building: Typing (0)
+Initial switchscore building: Specific Switches (100)
+Meowth: initial switchscore: 100
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (100)
+Initial noswitchscore building: Second Wind Situations (50)
+Meowth: initial noswitchscore: 150
+ShouldSwitchScore: -50 
+
+[The foe's Meowth: Calm Mind=[1, -1, -1, -1], Psyshock=[25, -1, -1, -1], Dazzling Gleam=[6, -1, -1, -1], Hyper Voice=[21, -1, -1, -1]]
+[Prefer Psyshock]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Meowth , HP percentage: 100.0 %
+Held Item:  , Ability: Magic Bounce , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |101.9 % 
+
+Scoring for Switching to other mon                          |-50 
+ 
+Scoring for items                                           |                    | 
+Full Restore                                                |-100.0              
+Calm Mind - 0 vs Nidoking, Init scoring move:               |10 
+Calm Mind - 0 vs Nidoking, Final scoring move:              |1 
+
+Dazzling Gleam - 0 vs Nidoking, Init scoring move:          |6 
+Dazzling Gleam - 0 vs Nidoking, Final scoring move:         |6 
+
+Hyper Voice - 0 vs Nidoking, Init scoring move:             |21 
+Hyper Voice - 0 vs Nidoking, Final scoring move:            |21 
+
+Psyshock - 0 vs Nidoking, Init scoring move:                |25 
+Psyshock - 0 vs Nidoking, Final scoring move:               |25 
+
+Final action chosen:                                        |[Prefer Psyshock]  
+ ______________________________________________________________________________ 
+
+Nidoking used Double Kick
+[The foe's Meowth lost 40 HP, now has 13 HP]
+[The foe's Meowth lost 13 HP, now has 0 HP]
+[The foe's Meowth fainted]
+[AI made a switch]
+
+Scoring for Meowth switching to: Meowth
+Score: -10000000
+
+Scoring for Meowth switching to: Togedemaru
+incomingpercentage: 2.476190
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -120 
+
+Scoring for switching from: Meowth
+                                                            |New AI
+Score for switching to Meowth                               |-10000000 
+Score for switching to Togedemaru                           |-120.0 
+Switch chosen =                                             |Togedemaru 
+
+ ______________________________________________________________________________ 
+
+************************** Round 2 *******************************
+Beginning AI Item use check.
+
+This is a HP-healing item.
+This is a status-curing item.
+Score for Full Restore: -100
+Highest item score: -100
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Calm Mind=[1, -1, -1, -1], Psyshock=[25, -1, -1, -1], Dazzling Gleam=[6, -1, -1, -1], Hyper Voice=[13, -1, -1, -1]]
+[Prefer Psyshock]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 100.0 %
+Held Item:  , Ability: Magic Bounce , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |247.6 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Scoring for items                                           |                    | 
+Full Restore                                                |-100.0              
+Calm Mind - 0 vs Nidoking, Init scoring move:               |10 
+Calm Mind - 0 vs Nidoking, Final scoring move:              |1 
+
+Dazzling Gleam - 0 vs Nidoking, Init scoring move:          |6 
+Dazzling Gleam - 0 vs Nidoking, Final scoring move:         |6 
+
+Hyper Voice - 0 vs Nidoking, Init scoring move:             |13 
+Hyper Voice - 0 vs Nidoking, Final scoring move:            |13 
+
+Psyshock - 0 vs Nidoking, Init scoring move:                |25 
+Psyshock - 0 vs Nidoking, Final scoring move:               |25 
+
+Final action chosen:                                        |[Prefer Psyshock]  
+ ______________________________________________________________________________ 
+
+Nidoking used Earth Power
+[The foe's Togedemaru lost 63 HP, now has 0 HP]
+[The foe's Togedemaru fainted]
+************************** Round 1 *******************************
+Beginning AI Item use check.
+
+This is a HP-healing item.
+This is a status-curing item.
+Score for Full Restore: -100
+Highest item score: -100
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (0)
+Initial switchscore building: Typing (0)
+Initial switchscore building: Specific Switches (100)
+Meowth: initial switchscore: 100
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (100)
+Initial noswitchscore building: Second Wind Situations (50)
+Meowth: initial noswitchscore: 150
+ShouldSwitchScore: -50 
+
+[The foe's Meowth: Calm Mind=[1, -1, -1, -1], Psyshock=[25, -1, -1, -1], Dazzling Gleam=[6, -1, -1, -1], Hyper Voice=[21, -1, -1, -1]]
+[Prefer Psyshock]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Meowth , HP percentage: 100.0 %
+Held Item:  , Ability: Magic Bounce , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |101.9 % 
+
+Scoring for Switching to other mon                          |-50 
+ 
+Scoring for items                                           |                    | 
+Full Restore                                                |-100.0              
+Calm Mind - 0 vs Nidoking, Init scoring move:               |10 
+Calm Mind - 0 vs Nidoking, Final scoring move:              |1 
+
+Dazzling Gleam - 0 vs Nidoking, Init scoring move:          |6 
+Dazzling Gleam - 0 vs Nidoking, Final scoring move:         |6 
+
+Hyper Voice - 0 vs Nidoking, Init scoring move:             |21 
+Hyper Voice - 0 vs Nidoking, Final scoring move:            |21 
+
+Psyshock - 0 vs Nidoking, Init scoring move:                |25 
+Psyshock - 0 vs Nidoking, Final scoring move:               |25 
+
+Final action chosen:                                        |[Prefer Psyshock]  
+ ______________________________________________________________________________ 
+
+Nidoking used Double Kick
+[The foe's Meowth lost 39 HP, now has 14 HP]
+[The foe's Meowth lost 14 HP, now has 0 HP]
+[The foe's Meowth fainted]
+[AI made a switch]
+
+Scoring for Meowth switching to: Meowth
+Score: -10000000
+
+Scoring for Meowth switching to: Togedemaru
+incomingpercentage: 2.476190
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -120 
+
+Scoring for switching from: Meowth
+                                                            |New AI
+Score for switching to Meowth                               |-10000000 
+Score for switching to Togedemaru                           |-120.0 
+Switch chosen =                                             |Togedemaru 
+
+ ______________________________________________________________________________ 
+
+************************** Round 2 *******************************
+Beginning AI Item use check.
+
+This is a HP-healing item.
+This is a status-curing item.
+Score for Full Restore: -100
+Highest item score: -100
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Calm Mind=[1, -1, -1, -1], Psyshock=[25, -1, -1, -1], Dazzling Gleam=[6, -1, -1, -1], Hyper Voice=[13, -1, -1, -1]]
+[Prefer Psyshock]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 100.0 %
+Held Item:  , Ability: Magic Bounce , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |247.6 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Scoring for items                                           |                    | 
+Full Restore                                                |-100.0              
+Calm Mind - 0 vs Nidoking, Init scoring move:               |10 
+Calm Mind - 0 vs Nidoking, Final scoring move:              |1 
+
+Dazzling Gleam - 0 vs Nidoking, Init scoring move:          |6 
+Dazzling Gleam - 0 vs Nidoking, Final scoring move:         |6 
+
+Hyper Voice - 0 vs Nidoking, Init scoring move:             |13 
+Hyper Voice - 0 vs Nidoking, Final scoring move:            |13 
+
+Psyshock - 0 vs Nidoking, Init scoring move:                |25 
+Psyshock - 0 vs Nidoking, Final scoring move:               |25 
+
+Final action chosen:                                        |[Prefer Psyshock]  
+ ______________________________________________________________________________ 
+
+Togedemaru used Psyshock
+[Nidoking lost 22 HP, now has 57 HP]
+Nidoking used Earth Power
+[The foe's Togedemaru lost 63 HP, now has 0 HP]
+[The foe's Togedemaru fainted]
+************************** Round 1 *******************************
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (0)
+Initial switchscore building: Typing (0)
+Initial switchscore building: Specific Switches (100)
+Dartrix: initial switchscore: 100
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (100)
+Initial noswitchscore building: Second Wind Situations (50)
+Dartrix: initial noswitchscore: 150
+ShouldSwitchScore: -50 
+
+[The foe's Dartrix: Rain Dance=[30, -1, -1, -1], Surf=[53, -1, -1, -1], Ice Beam=[54, -1, -1, -1], Giga Drain=[34, -1, -1, -1]]
+[Prefer Surf]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Dartrix , HP percentage: 100.0 %
+Held Item: Wise Glasses , Ability: Swift Swim , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |107.5 % 
+
+Scoring for Switching to other mon                          |-50 
+ 
+Giga Drain - 0 vs Nidoking, Init scoring move:              |32 
+Giga Drain - 0 vs Nidoking, Final scoring move:             |34 
+
+Ice Beam - 0 vs Nidoking, Init scoring move:                |53 
+Ice Beam - 0 vs Nidoking, Final scoring move:               |54 
+
+Rain Dance - 0 vs Nidoking, Init scoring move:              |15 
+Rain Dance - 0 vs Nidoking, Final scoring move:             |30 
+
+Surf - 0 vs Nidoking, Init scoring move:                    |53 
+Surf - 0 vs Nidoking, Final scoring move:                   |53 
+
+Final action chosen:                                        |[Prefer Surf]      
+ ______________________________________________________________________________ 
+
+Nidoking used Megahorn
+[The foe's Dartrix lost 52 HP, now has 15 HP]
+Dartrix used Surf
+[Nidoking lost 45 HP, now has 34 HP]
+************************** Round 2 *******************************
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (0)
+Initial switchscore building: Typing (0)
+Initial switchscore building: Specific Switches (0)
+Dartrix: initial switchscore: 0
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (0)
+Initial noswitchscore building: Second Wind Situations (25)
+Dartrix: initial noswitchscore: 25
+ShouldSwitchScore: -25 
+
+[The foe's Dartrix: Rain Dance=[6, -1, -1, -1], Surf=[110, -1, -1, -1], Ice Beam=[111, -1, -1, -1], Giga Drain=[82, -1, -1, -1]]
+[Prefer Ice Beam]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Dartrix , HP percentage: 22.4 %
+Held Item: Wise Glasses , Ability: Swift Swim , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |107.5 % 
+
+Scoring for Switching to other mon                          |-25 
+ 
+Giga Drain - 0 vs Nidoking, Init scoring move:              |76 
+Giga Drain - 0 vs Nidoking, Final scoring move:             |82 
+
+Ice Beam - 0 vs Nidoking, Init scoring move:                |110 
+Ice Beam - 0 vs Nidoking, Final scoring move:               |111 
+
+Rain Dance - 0 vs Nidoking, Init scoring move:              |15 
+Rain Dance - 0 vs Nidoking, Final scoring move:             |6 
+
+Surf - 0 vs Nidoking, Init scoring move:                    |110 
+Surf - 0 vs Nidoking, Final scoring move:                   |110 
+
+Final action chosen:                                        |[Prefer Ice Beam]  
+ ______________________________________________________________________________ 
+
+Nidoking used Sucker Punch
+[The foe's Dartrix lost 15 HP, now has 0 HP]
+[The foe's Dartrix fainted]
+[AI made a switch]
+
+Scoring for Dartrix switching to: Dartrix
+Score: -10000000
+
+Scoring for Dartrix switching to: Gloom
+incomingpercentage: 0.361111
+Defensive: 45
+Offensive: 67
+Roles: 30
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: 114 
+
+Scoring for switching from: Dartrix
+                                                            |New AI
+Score for switching to Dartrix                              |-10000000 
+Score for switching to Gloom                                |114.0 
+Switch chosen =                                             |Gloom 
+
+ ______________________________________________________________________________ 
+
+************************** Round 3 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Gloom: Rock Slide=[4, -1, -1, -1], Giga Drain=[19, -1, -1, -1], Leech Seed=[31, -1, -1, -1], Earth Power=[33, -1, -1, -1]]
+[Prefer Earth Power]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Gloom , HP percentage: 100.0 %
+Held Item: Magical Seed , Ability: Storm Drain , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoqueen                        |33.3 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Earth Power - 0 vs Nidoqueen, Init scoring move:            |32 
+Earth Power - 0 vs Nidoqueen, Final scoring move:           |33 
+
+Giga Drain - 0 vs Nidoqueen, Init scoring move:             |19 
+Giga Drain - 0 vs Nidoqueen, Final scoring move:            |19 
+
+Leech Seed - 0 vs Nidoqueen, Init scoring move:             |25 
+Leech Seed - 0 vs Nidoqueen, Final scoring move:            |31 
+
+Rock Slide - 0 vs Nidoqueen, Init scoring move:             |5 
+Rock Slide - 0 vs Nidoqueen, Final scoring move:            |4 
+
+Final action chosen:                                        |[Prefer Earth Power]
+ ______________________________________________________________________________ 
+
+Nidoqueen used Earth Power
+[The foe's Gloom lost 36 HP, now has 36 HP]
+Gloom used Earth Power
+[Nidoqueen lost 31 HP, now has 56 HP]
+************************** Round 4 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Gloom: Rock Slide=[7, -1, -1, -1], Giga Drain=[31, -1, -1, -1], Leech Seed=[18, -1, -1, -1], Earth Power=[52, -1, -1, -1]]
+[Prefer Earth Power]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Gloom , HP percentage: 50.0 %
+Held Item: Magical Seed , Ability: Storm Drain , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoqueen                        |54.2 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Earth Power - 0 vs Nidoqueen, Init scoring move:            |50 
+Earth Power - 0 vs Nidoqueen, Final scoring move:           |52 
+
+Giga Drain - 0 vs Nidoqueen, Init scoring move:             |30 
+Giga Drain - 0 vs Nidoqueen, Final scoring move:            |31 
+
+Leech Seed - 0 vs Nidoqueen, Init scoring move:             |25 
+Leech Seed - 0 vs Nidoqueen, Final scoring move:            |18 
+
+Rock Slide - 0 vs Nidoqueen, Init scoring move:             |8 
+Rock Slide - 0 vs Nidoqueen, Final scoring move:            |7 
+
+Final action chosen:                                        |[Prefer Earth Power]
+ ______________________________________________________________________________ 
+
+Nidoqueen used Earth Power
+[The foe's Gloom lost 34 HP, now has 2 HP]
+Gloom used Earth Power
+[Nidoqueen lost 30 HP, now has 26 HP]
+************************** Round 5 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Gloom: Rock Slide=[18, -1, -1, -1], Giga Drain=[68, -1, -1, -1], Leech Seed=[1, -1, -1, -1], Earth Power=[107, -1, -1, -1]]
+[Prefer Earth Power]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Gloom , HP percentage: 2.8 %
+Held Item: Magical Seed , Ability: Storm Drain , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoqueen                        |81.9 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Earth Power - 0 vs Nidoqueen, Init scoring move:            |107 
+Earth Power - 0 vs Nidoqueen, Final scoring move:           |107 
+
+Giga Drain - 0 vs Nidoqueen, Init scoring move:             |65 
+Giga Drain - 0 vs Nidoqueen, Final scoring move:            |68 
+
+Leech Seed - 0 vs Nidoqueen, Init scoring move:             |25 
+Leech Seed - 0 vs Nidoqueen, Final scoring move:            |1 
+
+Rock Slide - 0 vs Nidoqueen, Init scoring move:             |19 
+Rock Slide - 0 vs Nidoqueen, Final scoring move:            |18 
+
+Final action chosen:                                        |[Prefer Earth Power]
+ ______________________________________________________________________________ 
+
+Nidoqueen used Earth Power
+[The foe's Gloom lost 2 HP, now has 0 HP]
+[The foe's Gloom fainted]

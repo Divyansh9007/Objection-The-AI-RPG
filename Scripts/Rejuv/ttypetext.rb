@@ -907,7 +907,7 @@ TTYPEHASH = {
 },
 
 :LEADER_KETA => {
-	:ID => 132,
+	:ID => 133,
 	:title => "Sensei",
 	:skill => 100,
 	:moneymult => 22,
@@ -916,8 +916,8 @@ TTYPEHASH = {
 },
 
 :LEADER_KETA2 => {
-	:ID => 133,
-	:title => "Sensei",
+	:ID => 132,
+	:title => "Poor",
 	:skill => 100,
 	:battleBGM => "Battle - Gyms.mp3",
 	:winBGM => "Gym Battle Victory.mp3",
@@ -1016,7 +1016,7 @@ TTYPEHASH = {
 
 :LEADER_FLORIN => {
 	:ID => 144,
-	:title => "Botanist",
+	:title => "NPC",
 	:skill => 100,
 	:moneymult => 16,
 	:battleBGM => "Battle - Gyms.mp3",
