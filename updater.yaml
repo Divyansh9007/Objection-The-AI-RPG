@@ -1,0 +1,6 @@
+game:
+  name: "Rejuvenation"
+  version: "13.5.0"
+  version_url: "https://www.rebornevo.com/downloads/rebornremote/Rejuvenation/version"
+  patch_url: "https://www.rebornevo.com/downloads/rebornremote/Rejuvenation/patch.zip"
+  format: "zip"

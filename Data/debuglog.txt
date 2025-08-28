@@ -1,0 +1,23 @@
+************************** Round 1 *******************************
+************************** Round 1 *******************************
+************************** Round 1 *******************************
+************************** Round 1 *******************************
+************************** Round 1 *******************************
+ShouldSwitchScore: -1000 
+
+[The wild Pikachu: Light Screen=[100, -1, -1, -1], Wild Charge=[100, -1, -1, -1], Agility=[105, -1, -1, -1], Thunderbolt=[100, -1, -1, -1]]
+[Prefer Wild Charge]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pikachu , HP percentage: 100.0 %
+Held Item:  , Ability: Static , Field: City
+                                                            |AI Scores
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Final action chosen:                                        |[Prefer Wild Charge]
+ ______________________________________________________________________________ 
+
+Pikachu used Wild Charge
+[Ronin lost 70 HP, now has 0 HP]
+[The wild Pikachu lost 17 HP, now has 99 HP]
