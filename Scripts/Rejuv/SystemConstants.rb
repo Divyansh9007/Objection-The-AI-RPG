@@ -1,4 +1,4 @@
-GAMETITLE = "Pokemon Rejuvenation"
+GAMETITLE = "Objection by Sonit"
 GAMEFOLDER = "Rejuv"
 Reborn = false
 Desolation = false
