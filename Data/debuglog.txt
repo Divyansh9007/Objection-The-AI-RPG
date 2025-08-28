@@ -21,3 +21,578 @@ Final action chosen:                                        |[Prefer Wild Charge
 Pikachu used Wild Charge
 [Ronin lost 70 HP, now has 0 HP]
 [The wild Pikachu lost 17 HP, now has 99 HP]
+************************** Round 1 *******************************
+************************** Round 1 *******************************
+Priority Check Begin
+AI Pokemon is faster.
+pre-check: 5
+Expected damage taken: -1
+post-check: 5
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (0)
+Initial switchscore building: Typing (0)
+Initial switchscore building: Specific Switches (0)
+Pachirisu: initial switchscore: 0
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (100)
+Initial noswitchscore building: Second Wind Situations (50)
+Pachirisu: initial noswitchscore: 150
+ShouldSwitchScore: -150 
+
+[The foe's Pachirisu: Charm=[20, -1, -1, -1], Spark=[60, -1, -1, -1], Endure=[0, -1, -1, -1], Nuzzle=[20, -1, -1, -1]]
+[Prefer Spark]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 100.0 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Dewott                           |31.6 % 
+
+Scoring for Switching to other mon                          |-150 
+ 
+Charm - 0 vs Ronin, Init scoring move:                      |10 
+Charm - 0 vs Ronin, Final scoring move:                     |20 
+
+Endure - 0 vs Ronin, Init scoring move:                     |5 
+Endure - 0 vs Ronin, Final scoring move:                    |0 
+
+Nuzzle - 0 vs Ronin, Init scoring move:                     |17 
+Nuzzle - 0 vs Ronin, Final scoring move:                    |20 
+
+Spark - 0 vs Ronin, Init scoring move:                      |57 
+Spark - 0 vs Ronin, Final scoring move:                     |60 
+
+Final action chosen:                                        |[Prefer Spark]     
+ ______________________________________________________________________________ 
+
+Pachirisu used Spark
+[Ronin lost 34 HP, now has 36 HP]
+Ronin used Razor Shell
+[The foe's Pachirisu lost 30 HP, now has 27 HP]
+************************** Round 2 *******************************
+Priority Check Begin
+AI Pokemon is faster.
+pre-check: 5
+Expected damage taken: -1
+post-check: 5
+Priority Check End
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (0)
+Initial switchscore building: Typing (0)
+Initial switchscore building: Specific Switches (0)
+Pachirisu: initial switchscore: 0
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (0)
+Initial noswitchscore building: Second Wind Situations (155)
+Pachirisu: initial noswitchscore: 155
+ShouldSwitchScore: -155 
+
+[The foe's Pachirisu: Charm=[3, -1, -1, -1], Spark=[110, -1, -1, -1], Endure=[1, -1, -1, -1], Nuzzle=[33, -1, -1, -1]]
+[Prefer Spark]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Pachirisu , HP percentage: 47.4 %
+Held Item:  , Ability: Run Away , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Dewott                           |56.1 % 
+
+Scoring for Switching to other mon                          |-155 
+ 
+Charm - 0 vs Ronin, Init scoring move:                      |10 
+Charm - 0 vs Ronin, Final scoring move:                     |3 
+
+Endure - 0 vs Ronin, Init scoring move:                     |5 
+Endure - 0 vs Ronin, Final scoring move:                    |1 
+
+Nuzzle - 0 vs Ronin, Init scoring move:                     |33 
+Nuzzle - 0 vs Ronin, Final scoring move:                    |33 
+
+Spark - 0 vs Ronin, Init scoring move:                      |110 
+Spark - 0 vs Ronin, Final scoring move:                     |110 
+
+Final action chosen:                                        |[Prefer Spark]     
+ ______________________________________________________________________________ 
+
+Pachirisu used Spark
+[Ronin lost 35 HP, now has 1 HP]
+Ronin used Razor Shell
+[The foe's Pachirisu lost 27 HP, now has 0 HP]
+[The foe's Pachirisu fainted]
+[AI made a switch]
+
+Scoring for Pachirisu switching to: Pachirisu
+Score: -10000000
+
+Scoring for Pachirisu switching to: Togedemaru
+incomingpercentage: 0.610169
+Defensive: 0
+Offensive: 175
+Roles: 110
+Weather: 0
+Moves: 0
+Abilities: 30
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: 315 
+
+Scoring for switching from: Pachirisu
+                                                            |New AI
+Score for switching to Pachirisu                            |-10000000 
+Score for switching to Togedemaru                           |315.0 
+Switch chosen =                                             |Togedemaru 
+
+ ______________________________________________________________________________ 
+
+************************** Round 3 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[32, -1, -1, -1], Rollout=[10, -1, -1, -1], Charge=[22, -1, -1, -1], Spark=[53, -1, -1, -1]]
+[Prefer Spark]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 100.0 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidorina                         |0.0 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Nidorina, Init scoring move:                  |10 
+Charge - 0 vs Nidorina, Final scoring move:                 |22 
+
+Defense Curl - 0 vs Nidorina, Init scoring move:            |10 
+Defense Curl - 0 vs Nidorina, Final scoring move:           |32 
+
+Rollout - 0 vs Nidorina, Init scoring move:                 |15 
+Rollout - 0 vs Nidorina, Final scoring move:                |10 
+
+Spark - 0 vs Nidorina, Init scoring move:                   |50 
+Spark - 0 vs Nidorina, Final scoring move:                  |53 
+
+Final action chosen:                                        |[Prefer Spark]     
+ ______________________________________________________________________________ 
+
+Togedemaru used Spark
+[Nidorina lost 27 HP, now has 31 HP]
+Nidorina used Double Kick
+[The foe's Togedemaru lost 10 HP, now has 49 HP]
+[Nidorina lost 7 HP, now has 24 HP]
+[The foe's Togedemaru lost 11 HP, now has 38 HP]
+[Nidorina lost 7 HP, now has 17 HP]
+************************** Round 4 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[3, -1, -1, -1], Rollout=[27, -1, -1, -1], Charge=[2, -1, -1, -1], Spark=[110, -1, -1, -1]]
+[Prefer Spark]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 64.4 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidorina                         |44.1 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Nidorina, Init scoring move:                  |10 
+Charge - 0 vs Nidorina, Final scoring move:                 |2 
+
+Defense Curl - 0 vs Nidorina, Init scoring move:            |10 
+Defense Curl - 0 vs Nidorina, Final scoring move:           |3 
+
+Rollout - 0 vs Nidorina, Init scoring move:                 |52 
+Rollout - 0 vs Nidorina, Final scoring move:                |27 
+
+Spark - 0 vs Nidorina, Init scoring move:                   |110 
+Spark - 0 vs Nidorina, Final scoring move:                  |110 
+
+Final action chosen:                                        |[Prefer Spark]     
+ ______________________________________________________________________________ 
+
+Togedemaru used Spark
+[Nidorina lost 17 HP, now has 0 HP]
+[Nidorina fainted]
+[Player made a switch]
+
+************************** Round 5 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[3, -1, -1, -1], Rollout=[37, -1, -1, -1], Charge=[2, -1, -1, -1], Spark=[84, -1, -1, -1]]
+[Prefer Spark]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 64.4 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Fletchinder                      |50.8 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Fletchinder, Init scoring move:               |10 
+Charge - 0 vs Fletchinder, Final scoring move:              |2 
+
+Defense Curl - 0 vs Fletchinder, Init scoring move:         |10 
+Defense Curl - 0 vs Fletchinder, Final scoring move:        |3 
+
+Rollout - 0 vs Fletchinder, Init scoring move:              |87 
+Rollout - 0 vs Fletchinder, Final scoring move:             |37 
+
+Spark - 0 vs Fletchinder, Init scoring move:                |110 
+Spark - 0 vs Fletchinder, Final scoring move:               |84 
+
+Final action chosen:                                        |[Prefer Spark]     
+ ______________________________________________________________________________ 
+
+Togedemaru used Spark
+[Fletchinder lost 55 HP, now has 0 HP]
+[Fletchinder fainted]
+[Player made a switch]
+
+************************** Round 6 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[20, -1, -1, -1], Rollout=[12, -1, -1, -1], Charge=[18, -1, -1, -1], Spark=[63, -1, -1, -1]]
+[Prefer Spark]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 64.4 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidorino                         |0.0 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Nidorino, Init scoring move:                  |10 
+Charge - 0 vs Nidorino, Final scoring move:                 |18 
+
+Defense Curl - 0 vs Nidorino, Init scoring move:            |10 
+Defense Curl - 0 vs Nidorino, Final scoring move:           |20 
+
+Rollout - 0 vs Nidorino, Init scoring move:                 |20 
+Rollout - 0 vs Nidorino, Final scoring move:                |12 
+
+Spark - 0 vs Nidorino, Init scoring move:                   |60 
+Spark - 0 vs Nidorino, Final scoring move:                  |63 
+
+Final action chosen:                                        |[Prefer Spark]     
+ ______________________________________________________________________________ 
+
+Togedemaru used Spark
+[Nidorino lost 30 HP, now has 23 HP]
+Nidorino used Double Kick
+[The foe's Togedemaru lost 9 HP, now has 29 HP]
+[Nidorino lost 6 HP, now has 17 HP]
+[The foe's Togedemaru lost 9 HP, now has 20 HP]
+[Nidorino lost 6 HP, now has 11 HP]
+************************** Round 7 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[3, -1, -1, -1], Rollout=[60, -1, -1, -1], Charge=[2, -1, -1, -1], Spark=[110, -1, -1, -1]]
+[Prefer Spark]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 33.9 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidorino                         |33.9 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Nidorino, Init scoring move:                  |10 
+Charge - 0 vs Nidorino, Final scoring move:                 |2 
+
+Defense Curl - 0 vs Nidorino, Init scoring move:            |10 
+Defense Curl - 0 vs Nidorino, Final scoring move:           |3 
+
+Rollout - 0 vs Nidorino, Init scoring move:                 |100 
+Rollout - 0 vs Nidorino, Final scoring move:                |60 
+
+Spark - 0 vs Nidorino, Init scoring move:                   |110 
+Spark - 0 vs Nidorino, Final scoring move:                  |110 
+
+Final action chosen:                                        |[Prefer Spark]     
+ ______________________________________________________________________________ 
+
+Nidorino used Sucker Punch
+Togedemaru used Spark
+[Nidorino lost 11 HP, now has 0 HP]
+[Nidorino fainted]
+[Player made a switch]
+
+************************** Round 8 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[3, -1, -1, -1], Rollout=[19, -1, -1, -1], Charge=[2, -1, -1, -1], Spark=[105, -1, -1, -1]]
+[Prefer Spark]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 33.9 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Shuppet                          |23.7 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Shuppet, Init scoring move:                   |10 
+Charge - 0 vs Shuppet, Final scoring move:                  |2 
+
+Defense Curl - 0 vs Shuppet, Init scoring move:             |10 
+Defense Curl - 0 vs Shuppet, Final scoring move:            |3 
+
+Rollout - 0 vs Shuppet, Init scoring move:                  |30 
+Rollout - 0 vs Shuppet, Final scoring move:                 |19 
+
+Spark - 0 vs Shuppet, Init scoring move:                    |102 
+Spark - 0 vs Shuppet, Final scoring move:                   |105 
+
+Final action chosen:                                        |[Prefer Spark]     
+ ______________________________________________________________________________ 
+
+Togedemaru used Spark
+[Shuppet lost 46 HP, now has 0 HP]
+[Shuppet fainted]
+[Player made a switch]
+
+************************** Round 9 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[20, -1, -1, -1], Rollout=[76, -1, -1, -1], Charge=[31, -1, -1, -1], Spark=[-1, -1, -1, -1]]
+[Prefer Rollout]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 33.9 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Pachirisu                        |8.5 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Pachirisu, Init scoring move:                 |10 
+Charge - 0 vs Pachirisu, Final scoring move:                |31 
+
+Defense Curl - 0 vs Pachirisu, Init scoring move:           |10 
+Defense Curl - 0 vs Pachirisu, Final scoring move:          |20 
+
+Rollout - 0 vs Pachirisu, Init scoring move:                |17 
+Rollout - 0 vs Pachirisu, Final scoring move:               |76 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Togedemaru used Rollout
+Pachirisu used Charm
+************************** Round 10 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[20, -1, -1, -1], Rollout=[42, -1, -1, -1], Charge=[31, -1, -1, -1], Spark=[-1, -1, -1, -1]]
+[Prefer Rollout]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 33.9 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Pachirisu                        |8.5 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Pachirisu, Init scoring move:                 |10 
+Charge - 0 vs Pachirisu, Final scoring move:                |31 
+
+Defense Curl - 0 vs Pachirisu, Init scoring move:           |10 
+Defense Curl - 0 vs Pachirisu, Final scoring move:          |20 
+
+Rollout - 0 vs Pachirisu, Init scoring move:                |9 
+Rollout - 0 vs Pachirisu, Final scoring move:               |42 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Togedemaru used Rollout
+[Pachirisu lost 4 HP, now has 47 HP]
+Pachirisu used Charm
+************************** Round 11 *******************************
+[reusing commands for the foe's Togedemaru]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 33.9 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Pachirisu                        |8.5 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Pachirisu, Init scoring move:                 |10 
+Charge - 0 vs Pachirisu, Final scoring move:                |31 
+
+Defense Curl - 0 vs Pachirisu, Init scoring move:           |10 
+Defense Curl - 0 vs Pachirisu, Final scoring move:          |20 
+
+Rollout - 0 vs Pachirisu, Init scoring move:                |9 
+Rollout - 0 vs Pachirisu, Final scoring move:               |42 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+[Continuing move]
+Togedemaru used Rollout
+[Pachirisu lost 6 HP, now has 41 HP]
+Pachirisu used Charm
+************************** Round 12 *******************************
+[reusing commands for the foe's Togedemaru]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 33.9 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Pachirisu                        |8.5 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Pachirisu, Init scoring move:                 |10 
+Charge - 0 vs Pachirisu, Final scoring move:                |31 
+
+Defense Curl - 0 vs Pachirisu, Init scoring move:           |10 
+Defense Curl - 0 vs Pachirisu, Final scoring move:          |20 
+
+Rollout - 0 vs Pachirisu, Init scoring move:                |9 
+Rollout - 0 vs Pachirisu, Final scoring move:               |42 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+[Continuing move]
+Togedemaru used Rollout
+Pachirisu used Electroweb
+[The foe's Togedemaru lost 5 HP, now has 15 HP]
+************************** Round 13 *******************************
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Defense Curl=[6, -1, -1, -1], Rollout=[30, -1, -1, -1], Charge=[6, -1, -1, -1], Spark=[-1, -1, -1, -1]]
+[Prefer Rollout]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 25.4 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Pachirisu                        |10.2 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Pachirisu, Init scoring move:                 |10 
+Charge - 0 vs Pachirisu, Final scoring move:                |6 
+
+Defense Curl - 0 vs Pachirisu, Init scoring move:           |10 
+Defense Curl - 0 vs Pachirisu, Final scoring move:          |6 
+
+Rollout - 0 vs Pachirisu, Init scoring move:                |7 
+Rollout - 0 vs Pachirisu, Final scoring move:               |30 
+
+Spark - 0 vs Pachirisu, Init scoring move:                  |-3 
+Spark - 0 vs Pachirisu, Final scoring move:                 |-1 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Pachirisu used Electroweb
+[The foe's Togedemaru lost 5 HP, now has 10 HP]
+Togedemaru used Rollout
+[Pachirisu lost 3 HP, now has 38 HP]
+************************** Round 14 *******************************
+[reusing commands for the foe's Togedemaru]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 25.4 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Pachirisu                        |10.2 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Pachirisu, Init scoring move:                 |10 
+Charge - 0 vs Pachirisu, Final scoring move:                |6 
+
+Defense Curl - 0 vs Pachirisu, Init scoring move:           |10 
+Defense Curl - 0 vs Pachirisu, Final scoring move:          |6 
+
+Rollout - 0 vs Pachirisu, Init scoring move:                |7 
+Rollout - 0 vs Pachirisu, Final scoring move:               |30 
+
+Spark - 0 vs Pachirisu, Init scoring move:                  |-3 
+Spark - 0 vs Pachirisu, Final scoring move:                 |-1 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Pachirisu used Electroweb
+[The foe's Togedemaru lost 5 HP, now has 5 HP]
+[Continuing move]
+Togedemaru used Rollout
+[Pachirisu lost 4 HP, now has 34 HP]
+************************** Round 15 *******************************
+[reusing commands for the foe's Togedemaru]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 25.4 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Pachirisu                        |10.2 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Pachirisu, Init scoring move:                 |10 
+Charge - 0 vs Pachirisu, Final scoring move:                |6 
+
+Defense Curl - 0 vs Pachirisu, Init scoring move:           |10 
+Defense Curl - 0 vs Pachirisu, Final scoring move:          |6 
+
+Rollout - 0 vs Pachirisu, Init scoring move:                |7 
+Rollout - 0 vs Pachirisu, Final scoring move:               |30 
+
+Spark - 0 vs Pachirisu, Init scoring move:                  |-3 
+Spark - 0 vs Pachirisu, Final scoring move:                 |-1 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Pachirisu used Electroweb
+[The foe's Togedemaru lost 4 HP, now has 1 HP]
+[Continuing move]
+Togedemaru used Rollout
+[Pachirisu lost 9 HP, now has 25 HP]
+************************** Round 16 *******************************
+[reusing commands for the foe's Togedemaru]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 25.4 %
+Held Item:  , Ability: Iron Barbs , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Pachirisu                        |10.2 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Charge - 0 vs Pachirisu, Init scoring move:                 |10 
+Charge - 0 vs Pachirisu, Final scoring move:                |6 
+
+Defense Curl - 0 vs Pachirisu, Init scoring move:           |10 
+Defense Curl - 0 vs Pachirisu, Final scoring move:          |6 
+
+Rollout - 0 vs Pachirisu, Init scoring move:                |7 
+Rollout - 0 vs Pachirisu, Final scoring move:               |30 
+
+Spark - 0 vs Pachirisu, Init scoring move:                  |-3 
+Spark - 0 vs Pachirisu, Final scoring move:                 |-1 
+
+Final action chosen:                                        |[Prefer Rollout]   
+ ______________________________________________________________________________ 
+
+Pachirisu used Spark
+[The foe's Togedemaru lost 1 HP, now has 0 HP]
+[Pachirisu lost 6 HP, now has 19 HP]
+[The foe's Togedemaru fainted]
