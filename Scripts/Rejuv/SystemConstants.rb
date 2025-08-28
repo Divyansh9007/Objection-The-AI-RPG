@@ -1,4 +1,4 @@
-GAMETITLE = "Objection by Sonit"
+GAMETITLE = "Objection"
 GAMEFOLDER = "Rejuv"
 Reborn = false
 Desolation = false
