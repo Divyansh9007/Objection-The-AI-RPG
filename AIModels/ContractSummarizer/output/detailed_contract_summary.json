@@ -1,0 +1,35 @@
+{
+  "executive_summary": "Software as a Service Agreement means this Software as a service Agreement and any Exhibits, \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Schedules, and Amendments hereto. Service means the software services provided by the Provider to the Customer under this Agreement.",
+  "clause_summaries": [
+    {
+      "type": "indemnity",
+      "heading": "2",
+      "summary": "Both parties will comply with all applicable requirements of the DataProtection Legislation. No party shall use any other party s confidential information for any purpose other than to exercise its rights and perform its obligations under this Agreement.",
+      "confidence": 0.6951240301132202
+    },
+    {
+      "type": "indemnity",
+      "heading": "s in addition to, and does not relieve, remove",
+      "summary": "or replace, a party s obligations under the Data Protection Legislation. 5.2 The parties acknowledge that if Provider processes any personal data on Customer s behalf when performing its obligations under this Agreement, Customer is the data controller.",
+      "confidence": 0.5036225914955139
+    },
+    {
+      "type": "indemnity",
+      "heading": "1, Customer will ensure that it has all necessary appropriate consents and",
+      "summary": "notices in place to enable lawful transfer of the personal data to Provider for the duration and purposes of this Agreement. Customer acknowledges and agrees that Provider and or its licensors own all intellectual property rights in the Service. Neither party s liability for death or personal injury caused by its negligence or the negligence of its employees or agents.",
+      "confidence": 0.7544478178024292
+    },
+    {
+      "type": "indemnity",
+      "heading": "1, neither party shall be liable to the",
+      "summary": "other party for any:  a  loss of profits   b  Loss of sales or business  c loss of agreements or contracts   d  loss  of anticipated savings   e  loss. Loss of or damage to goodwill  or corruption of software, data or information  or  g  any indirect orconsequential loss. Provider's total liability to Customer in respect of all other losses arising under or in connection with this Agreement, whether in contract",
+      "confidence": 0.7190313339233398
+    },
+    {
+      "type": "indemnity",
+      "heading": "2, Provider",
+      "summary": "shall be entitled to seek injunctive or other equitable relief in any jurisdiction in relation to any actual or threatened breach of its Intellectual Property Rights or rights of confidentiality.",
+      "confidence": 0.5374860167503357
+    }
+  ]
+}
